@@ -23,4 +23,3 @@ END //
 DELIMITER ;
 
 CALL get_even(1, 10);
-CALL second_counter(123456); 
